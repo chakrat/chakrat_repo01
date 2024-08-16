@@ -52,4 +52,13 @@ public class UniqueNumber {
 //    }
 //}
 
+//public class Kata {
+//    public static double findUniq(double arr[]) {
+//        final double common = arr[0]==arr[1] || arr[0]==arr[2] ? arr[0] : arr[1];
+//        int i = 0;
+//        while (arr[i] == common) i++;
+//        return arr[i];
+//    }
+//}
+
 
